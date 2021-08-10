@@ -1,5 +1,7 @@
 # Välkommen till min GitHub Pages!
 
+![profilepic](https://user-images.githubusercontent.com/62758767/128904728-da2487fa-298d-477b-81c8-3c053b899235.jpg)
+
 Här har jag samlat ett par av mina projekt som du gärna får kika på.
 
 ## Data Science på Flashback
