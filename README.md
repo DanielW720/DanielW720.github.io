@@ -14,6 +14,10 @@ Det här är från början ett projekt från kursen Statistisk databehandling, h
 
 Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala universitet) vid sidan av mina studier vid SU. Som slutprojekt fick varje student göra sin egen implementation av Djupviks Hamns hemsida. Webbsidan är inte längre i drift, men ladda gärna hem [projektet](https://github.com/DanielW720/DjupviksHamn_website) för att se hemsidan lokalt.
 
+## Coming up: AI med C++
+
+<img width="100%" height="100px" src="images/pi7rEG77T.png">
+
 ### Kontakt
 
 * Telefon: 076 949 68 02
