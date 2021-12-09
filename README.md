@@ -4,7 +4,7 @@ Här har jag samlat ett par av mina projekt som du gärna får kika på. Fler pr
 
 ![profilepic](images/profilepic.jpg)
 
-## Data Science på Flashback
+## Data Science på Flashback (pågående)
 
 Det här är från början ett projekt från kursen Statistisk databehandling, hösten 2020 på Stockholms universitet. Sommaren 2021 hade jag som mål att lära mig Jupyter notebook och dataanalys med Python. Därför jag valde att översätta all kod från R till Python, och skriva rapporten i VS Codes variant av Jupyter notebook.
 
@@ -30,4 +30,3 @@ Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala unive
 * Telefon: 076 949 68 02
 * E-post: westerlund.da@gmail.com
 * Webbplats: <https://www.linkedin.com/in/daniel-westerlund-a07529179/>
-C:\Users\i7-8700K Gamer\Documents\Programming\Java\Algorithms
