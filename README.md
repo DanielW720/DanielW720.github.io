@@ -1,3 +1,7 @@
+ <head>
+    <link rel="shortcut icon" type="image/png" href="images/javalogo.png">
+  </head>
+
 # Välkommen till mitt showroom
 
 Här har jag samlat ett par av mina projekt som du gärna får kika på. Fler projekt är på gång.
