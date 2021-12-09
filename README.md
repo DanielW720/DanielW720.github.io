@@ -15,6 +15,7 @@ Det här är från början ett projekt från kursen Statistisk databehandling, h
 In this project, I have implemented 24 common algorithms and added a few comments to each one that can help connect the dots if it's been a while since I last looked at it. Whenever I want to freshen up my memory of a couple of these algorithms (maybe I'm preparing for a job interview), I can have a look at this repository.
 
 _Programming language: Java_
+
 _URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_
 
 ## Djupviks Hamn (Webbsida)
