@@ -1,7 +1,3 @@
- <head>
-    <link rel="shortcut icon" type="image/png" href="images/javalogo.png">
-  </head>
-
 # Välkommen till mitt showroom
 
 Här har jag samlat ett par av mina projekt som du gärna får kika på. Fler projekt är på gång.
@@ -20,9 +16,9 @@ In this project, I have implemented 24 common algorithms and added a few comment
 
 _Programming language: Java_
 
-_URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_
+_GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_
 
-## Djupviks Hamn (Webbsida)
+## Djupviks Hamn (Webbsida, from scratch)
 
 Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala universitet) vid sidan av mina studier vid SU. Som slutprojekt fick varje student göra sin egen implementation av Djupviks Hamns hemsida. Webbsidan är inte längre i drift, men ladda gärna hem [projektet](https://github.com/DanielW720/DjupviksHamn_website) för att se hemsidan lokalt.
 
