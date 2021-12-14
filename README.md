@@ -18,6 +18,14 @@ _Programming language: Java_
 
 _GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_
 
+## Selected Problems
+
+In this repo, I have gathered a few smaller problems that I thought was fun to work on. The problems are mostly taken from CodeWars, a fun site where one can practice the algorithm-creating-skills for different type of problems.
+
+_Programming language: Python_
+
+_GitHub repo URL: [Selected Problems](https://github.com/DanielW720/SelectedProblems)_
+
 ## Djupviks Hamn (Webbsida, from scratch)
 
 Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala universitet) vid sidan av mina studier vid SU. Som slutprojekt fick varje student göra sin egen implementation av Djupviks Hamns hemsida. Webbsidan är inte längre i drift, men ladda gärna hem [projektet](https://github.com/DanielW720/DjupviksHamn_website) för att se hemsidan lokalt.
