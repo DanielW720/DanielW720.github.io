@@ -4,11 +4,19 @@ Här har jag samlat ett par av mina projekt som du gärna får kika på. Fler pr
 
 ![profilepic](images/profilepic.jpg)
 
+## Five In a Row with Minimax Artificial Intelligence
+
+In this project I have written a program for playing Gomoku, aka. Five in a row, with the computer as your opponent. The AI opponent uses the popular Minimax algorithm in order to find the best possible move. Read more at the GitHub repo; [Five-In-a-Row-with-Minimax-AI](https://github.com/DanielW720/Five-In-a-Row-with-Minimax-AI)
+
+_Programming language: Java_
+
 ## Data Science på Flashback (pågående)
 
 Det här är från början ett projekt från kursen Statistisk databehandling, hösten 2020 på Stockholms universitet. Sommaren 2021 hade jag som mål att lära mig Jupyter notebook och dataanalys med Python. Därför jag valde att översätta all kod från R till Python, och skriva rapporten i VS Codes variant av Jupyter notebook.
 
 *Detta projekt är ej avslutat, men denna [länk till rapporten](https://github.com/DanielW720/DS_Flashback/blob/main/report.ipynb) visar hur rapporten ser ut just nu.*
+
+_Programmeringsspråk: Python_
 
 ## Top 24 Algorithms You Should Know
 
@@ -30,7 +38,7 @@ _GitHub repo URL: [Selected Problems](https://github.com/DanielW720/SelectedProb
 
 Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala universitet) vid sidan av mina studier vid SU. Som slutprojekt fick varje student göra sin egen implementation av Djupviks Hamns hemsida. Webbsidan är inte längre i drift, men ladda gärna hem [projektet](https://github.com/DanielW720/DjupviksHamn_website) för att se hemsidan lokalt.
 
-## Coming up: AI med C++
+_Programmeringsspråk: JavaScript (HTML, CSS)_
 
 <img width="100%" height="100px" src="images/pi7rEG77T.png">
 
