@@ -12,7 +12,7 @@ In this project I have written a program for playing Gomoku, aka. Five in a row,
 
 Currently, this project is a console application. I'm planning on extending this project with a user interface.
 
-Presentation: TEST 
+Presentation:
 
 <iframe id="video" width="560" height="315" src="presentation\Presentation.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
