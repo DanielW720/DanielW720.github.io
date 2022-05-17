@@ -1,16 +1,14 @@
 # Välkommen till mitt showroom
 
-Här har jag samlat ett par av mina projekt som du gärna får kika på. Fler projekt är på gång.
+Här har jag samlat ett par av mina projekt som du gärna får kika på.
 
 ![profilepic](images/profilepic.jpg)
-
-## Coming up: Chess engine, fueled by a combination of the Minimax algorithm and reinforcement learning
 
 ## Five In a Row with Minimax Artificial Intelligence
 
 In this project I have written a program for playing Gomoku, aka. Five in a row, with the computer as your opponent. The AI opponent uses the popular Minimax algorithm in order to find the best possible move. Read more at the GitHub repo; [Five-In-a-Row-with-Minimax-AI](https://github.com/DanielW720/Five-In-a-Row-with-Minimax-AI)
 
-Currently, this project is a console application. I'm planning on extending this project with a user interface.
+Currently, this project is a console application.
 
 Presentation:
 
@@ -26,13 +24,13 @@ Det här är från början ett projekt från kursen Statistisk databehandling, h
 
 _Programmeringsspråk: Python_
 
-## Top 24 Algorithms You Should Know (ongoing)
+<!-- ## Top 24 Algorithms You Should Know (ongoing)
 
 In this project, I have implemented 24 common algorithms and added a few comments to each one that can help connect the dots if it's been a while since I last looked at it. Whenever I want to freshen up my memory of a couple of these algorithms (maybe I'm preparing for a job interview), I can have a look at this repository.
 
 _Programming language: Java_
 
-_GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_
+_GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_ -->
 
 ## Selected Problems
 
