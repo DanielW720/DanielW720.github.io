@@ -40,16 +40,16 @@ _Programming language: Python_
 
 _GitHub repo URL: [Selected Problems](https://github.com/DanielW720/SelectedProblems)_
 
-## Djupviks Hamn (Webbsida, from scratch)
+<!-- ## Djupviks Hamn (Webbsida, from scratch)
 
 Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala universitet) vid sidan av mina studier vid SU. Som slutprojekt fick varje student göra sin egen implementation av Djupviks Hamns hemsida. Webbsidan är inte längre i drift, men ladda gärna hem [projektet](https://github.com/DanielW720/DjupviksHamn_website) för att se hemsidan lokalt.
 
-_Programmeringsspråk: JavaScript (HTML, CSS)_
+_Programmeringsspråk: JavaScript (HTML, CSS)_ -->
 
 <img width="100%" height="100px" src="images/pi7rEG77T.png">
 
 ### Kontakt
 
-* Telefon: 076 949 68 02
-* E-post: westerlund.da@gmail.com
-* Webbplats: <https://www.linkedin.com/in/daniel-westerlund-a07529179/>
+* 076 949 68 02
+* westerlund.da@gmail.com
+* <https://www.linkedin.com/in/daniel-westerlund-a07529179/>
