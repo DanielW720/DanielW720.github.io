@@ -1,8 +1,9 @@
-# Välkommen till mitt showroom
+# Morsning korsning
 
-Här har jag samlat ett par av mina projekt som du gärna får kika på.
+Här har jag samlat några av mina programmeringsprojekt.
 
-![profilepic](images/profilepic.jpg)
+<img src="images/profilepic.jpg" width="70%" height="70%">
+<!-- ![profilepic](images/profilepic.jpg) -->
 
 ## Five In a Row with Minimax Artificial Intelligence
 
@@ -32,6 +33,12 @@ _Programming language: Java_
 
 _GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_ -->
 
+## Frontend Mentor
+
+På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "FrontendMentor-<challange>". I sådana repon finns mina lösningar till diverse Frontendproblem från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
+
+- QR code component: [GitHub](https://github.com/DanielW720/FrontendMentor-qr-code-component)
+
 ## Selected Problems
 
 In this repo, I have gathered a few smaller problems that I thought was fun to work on. The problems are mostly taken from CodeWars, a fun site where one can practice the algorithm-creating-skills for different type of problems.
@@ -50,6 +57,5 @@ _Programmeringsspråk: JavaScript (HTML, CSS)_ -->
 
 ### Kontakt
 
-* 076 949 68 02
 * westerlund.da@gmail.com
 * <https://www.linkedin.com/in/daniel-westerlund-a07529179/>
