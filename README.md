@@ -37,6 +37,7 @@ _GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW
 
 På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "FrontendMentor-<challange>". I sådana repon finns mina lösningar till diverse Frontendproblem från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
 
+- Interactive Rating Component (React): [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
 - NFT Preview Card Component: [GitHub](https://github.com/DanielW720/frontendmentor-nft-preview-card-component)
 - QR Code Component: [GitHub](https://github.com/DanielW720/FrontendMentor-qr-code-component)
 
