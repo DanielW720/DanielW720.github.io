@@ -37,7 +37,8 @@ _GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW
 
 På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "FrontendMentor-<challange>". I sådana repon finns mina lösningar till diverse Frontendproblem från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
 
-- QR code component: [GitHub](https://github.com/DanielW720/FrontendMentor-qr-code-component)
+- NFT Preview Card Component: [GitHub](https://github.com/DanielW720/frontendmentor-nft-preview-card-component)
+- QR Code Component: [GitHub](https://github.com/DanielW720/FrontendMentor-qr-code-component)
 
 ## Selected Problems
 
@@ -46,12 +47,6 @@ In this repo, I have gathered a few smaller problems that I thought was fun to w
 _Programming language: Python_
 
 _GitHub repo URL: [Selected Problems](https://github.com/DanielW720/SelectedProblems)_
-
-<!-- ## Djupviks Hamn (Webbsida, from scratch)
-
-Våren 2021 gjorde jag en extra kurs (Dynamiska Webbapplikationer, Uppsala universitet) vid sidan av mina studier vid SU. Som slutprojekt fick varje student göra sin egen implementation av Djupviks Hamns hemsida. Webbsidan är inte längre i drift, men ladda gärna hem [projektet](https://github.com/DanielW720/DjupviksHamn_website) för att se hemsidan lokalt.
-
-_Programmeringsspråk: JavaScript (HTML, CSS)_ -->
 
 <img width="100%" height="100px" src="images/pi7rEG77T.png">
 
