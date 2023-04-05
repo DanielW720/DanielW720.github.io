@@ -37,10 +37,18 @@ _GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW
 
 På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "frontendmentor-<challange>". I sådana repon finns mina lösningar till diverse Frontendproblem från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
 
-- Interactive Rating Component (React): [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
-- Stats Preview Card Component (HTML, CSS): [GitHub](https://github.com/DanielW720/frontendmentor-stats-preview-card-component)
-- NFT Preview Card Component (HTML, CSS): [GitHub](https://github.com/DanielW720/frontendmentor-nft-preview-card-component)
-- QR Code Component (HTML, CSS): [GitHub](https://github.com/DanielW720/FrontendMentor-qr-code-component)
+### React
+- Interactive Rating Component: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
+- Interactive Rating Component using React Context: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component-with-react-context)
+- Expense Chart Component: [GitHub](https://github.com/DanielW720/frontendmentor-expenses-chart-component)
+
+### HTML & CSS
+
+- Advice Generator App: [GitHub](https://github.com/DanielW720/frontendmentor-advice-generator-app)
+- Stats Preview Card Component: [GitHub](https://github.com/DanielW720/frontendmentor-stats-preview-card-component)
+- NFT Preview Card Component: [GitHub](https://github.com/DanielW720/frontendmentor-nft-preview-card-component)
+- Profile Card Component: [GitHub](https://github.com/DanielW720/frontendmentor-profile-card-component)
+- QR Code Component: [GitHub](https://github.com/DanielW720/FrontendMentor-qr-code-component)
 
 ## Selected Problems
 
