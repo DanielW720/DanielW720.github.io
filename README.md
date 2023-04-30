@@ -9,12 +9,6 @@ Här har jag samlat några av mina programmeringsprojekt.
 
 In this project I have written a program for playing Gomoku, aka. Five in a row, with the computer as your opponent. The AI opponent uses the popular Minimax algorithm in order to find the best possible move. Read more at the GitHub repo; [Five-In-a-Row-with-Minimax-AI](https://github.com/DanielW720/Five-In-a-Row-with-Minimax-AI)
 
-Currently, this project is a console application.
-
-Presentation:
-
-<iframe id="video" width="560" height="315" src="presentation\Presentation.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
 _Programming language: Java_
 
 ## Frontend Mentor
@@ -23,8 +17,10 @@ På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnfor
 
 ### React
 
+- Social Media Dashboard with Theme Switcher (React, TailwindCSS, Vite): [GitHub](https://github.com/DanielW720/frontendmentor-social-media-dashboard-with-theme-switcher)
 - Interactive Rating Component: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
 - Interactive Rating Component using React Context: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component-with-react-context)
+- Time tracking dashboard (with Material UI): [GitHub](https://github.com/DanielW720/frontendmentor-time-tracking-dashboard)
 - Expense Chart Component: [GitHub](https://github.com/DanielW720/frontendmentor-expenses-chart-component)
 
 ### HTML & CSS
