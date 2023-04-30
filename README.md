@@ -2,7 +2,7 @@
 
 Här har jag samlat några av mina programmeringsprojekt.
 
-<img src="images/profilepic.jpg" width="70%" height="70%">
+<img src="images/profilbild.jpg" width="50%">
 <!-- ![profilepic](images/profilepic.jpg) -->
 
 ## Five In a Row with Minimax Artificial Intelligence
@@ -22,6 +22,7 @@ _Programming language: Java_
 På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "frontendmentor-<challange>". I sådana repon finns mina lösningar till diverse Frontendproblem från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
 
 ### React
+
 - Interactive Rating Component: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
 - Interactive Rating Component using React Context: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component-with-react-context)
 - Expense Chart Component: [GitHub](https://github.com/DanielW720/frontendmentor-expenses-chart-component)
@@ -38,7 +39,7 @@ På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnfor
 
 Det här är från början ett projekt från kursen Statistisk databehandling, hösten 2020 på Stockholms universitet. Sommaren 2021 hade jag som mål att lära mig Jupyter notebook och dataanalys med Python. Därför jag valde att översätta all kod från R till Python, och skriva rapporten i VS Codes variant av Jupyter notebook.
 
-*Detta projekt är ej avslutat, men denna [länk till rapporten](https://github.com/DanielW720/DS_Flashback/blob/main/report.ipynb) visar hur rapporten ser ut just nu.*
+_Detta projekt är ej avslutat, men denna [länk till rapporten](https://github.com/DanielW720/DS_Flashback/blob/main/report.ipynb) visar hur rapporten ser ut just nu._
 
 _Programmeringsspråk: Python_
 
@@ -49,7 +50,6 @@ In this project, I have implemented 24 common algorithms and added a few comment
 _Programming language: Java_
 
 _GitHub repo URL: [Top 24 Algorithms You Should Know](https://github.com/DanielW720/Algorithms)_ -->
-
 
 ## Selected Problems
 
@@ -63,5 +63,5 @@ _GitHub repo URL: [Selected Problems](https://github.com/DanielW720/SelectedProb
 
 ### Kontakt
 
-* westerlund.da@gmail.com
-* <https://www.linkedin.com/in/daniel-westerlund-a07529179/>
+- westerlund.da@gmail.com
+- <https://www.linkedin.com/in/daniel-westerlund-a07529179/>
