@@ -18,6 +18,7 @@ På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnfor
 ### React
 
 - Social Media Dashboard with Theme Switcher (React, TailwindCSS, Vite): [GitHub](https://github.com/DanielW720/frontendmentor-social-media-dashboard-with-theme-switcher)
+- Launch Countdown Timer (React, TypeScript, TailwindCSS, Vite): [GitHub](https://github.com/DanielW720/frontendmentor-launch-countdown-timer)
 - Interactive Rating Component: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
 - Interactive Rating Component using React Context: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component-with-react-context)
 - Time tracking dashboard (with Material UI): [GitHub](https://github.com/DanielW720/frontendmentor-time-tracking-dashboard)
