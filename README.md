@@ -2,7 +2,7 @@
 
 Här har jag samlat några av mina programmeringsprojekt.
 
-<img src="images/profilbild.jpg" width="50%" style='border-radius: 20px; box-shadow: 0px 0px 30px 5px rgba(181, 181, 181, 0.61);'>
+<img src="images/profilbild.jpg" width="50%" style='border-radius: 20px; box-shadow: 0px 0px 30px 5px rgba(181, 181, 181, 0.61); margin-top: 1rem'>
 <!-- ![profilepic](images/profilepic.jpg) -->
 
 ## Five In a Row with Minimax Artificial Intelligence
