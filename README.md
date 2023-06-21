@@ -13,7 +13,7 @@ _Programming language: Java_
 
 ## Frontend Mentor
 
-På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "frontendmentor-<challange>". I sådana repon finns mina lösningar till diverse Frontendproblem från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
+På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnformatet "frontendmentor-<challange>". I sådana repon finns mina lösningar till diverse challenges av olika svårighetsgrad från [Frontend Mentor](https://www.frontendmentor.io/profile/DanielW720).
 
 ### React
 
