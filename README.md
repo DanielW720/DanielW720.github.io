@@ -18,6 +18,7 @@ På min [GitHub](https://www.github.com/DanielW720) hittar man repon på namnfor
 ### React
 
 - Fullstack Todo App with Firebase (React, TypeScript, TailwindCSS): [GitHub](https://github.com/DanielW720/frontendmentor-todo-app)
+- Countries with Next.js: [GitHub](https://github.com/DanielW720/frontendmentor-countries-api)
 - Social Media Dashboard with Theme Switcher (React, TailwindCSS, Vite): [GitHub](https://github.com/DanielW720/frontendmentor-social-media-dashboard-with-theme-switcher)
 - Launch Countdown Timer (React, TypeScript, TailwindCSS, Vite): [GitHub](https://github.com/DanielW720/frontendmentor-launch-countdown-timer)
 - Interactive Rating Component: [GitHub](https://github.com/DanielW720/frontendmentor-interactive-rating-component)
